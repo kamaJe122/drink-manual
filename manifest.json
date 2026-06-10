@@ -1,0 +1,30 @@
+{
+  "name": "金茂宜咖啡 · 小金人學習手冊",
+  "short_name": "金茂宜手冊",
+  "description": "金茂宜咖啡新人飲料製作手冊與學習系統。離線也能查配方。",
+  "lang": "zh-TW",
+  "dir": "ltr",
+  "start_url": ".",
+  "scope": ".",
+  "id": "/drink-manual/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#2d3843",
+  "theme_color": "#c8813a",
+  "categories": ["education", "food", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

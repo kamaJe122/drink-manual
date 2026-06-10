@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Kingmauii Coffee 金茂宜咖啡">
+  <!-- 全幅深藍底；系統會把邊緣裁成圓形/水滴 -->
+  <rect width="512" height="512" fill="#2d3843"/>
+  <!-- 標誌縮進中央安全區（約 78%） -->
+  <g transform="translate(256 256) scale(0.78) translate(-256 -224)">
+    <path d="M176 298
+             C150 270 148 205 154 166
+             C170 205 190 232 210 250
+             C224 214 228 158 256 122
+             C284 158 288 214 302 250
+             C322 232 342 205 358 166
+             C364 205 362 270 336 298
+             C300 324 212 324 176 298 Z"
+          fill="#c89653"/>
+    <ellipse cx="256" cy="290" rx="44" ry="29" fill="#2d3843"/>
+    <ellipse cx="256" cy="290" rx="37" ry="23" fill="#c89653"/>
+    <path d="M256 270 C243 282 269 297 256 311" fill="none" stroke="#2d3843" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>
